@@ -36,5 +36,4 @@ public class Application {
         }
         return properties;
     }
-
 }
